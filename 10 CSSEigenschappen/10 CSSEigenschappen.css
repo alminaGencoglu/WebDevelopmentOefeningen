@@ -1,0 +1,24 @@
+body { 
+    font-family: Arial;
+    background-color:silver; 
+}
+
+header { 
+        background:yellow;
+        height: 100px;
+}
+
+nav {
+     background-color:green;
+     width: 200px;
+     height: 150px;
+     float: left;
+}
+article {
+     background-color:red;
+}
+footer {
+    background-color:blue;
+    color:white;
+    clear: both;
+}
